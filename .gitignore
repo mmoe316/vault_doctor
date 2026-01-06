@@ -16,3 +16,5 @@ run_cli.js
 
 # Explicitly Allow the Docs folder (just in case)
 !docs/
+# Ignore all build directories
+**/build/
