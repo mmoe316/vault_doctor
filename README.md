@@ -13,7 +13,7 @@ Vault Doctor is a free, open-source CLI tool that:
 
 ## Quick Start (CLI)
 
-1. **Download** the latest binary from [Releases](https://github.com/yourusername/vault_doctor/releases).
+1. **Download** the latest binary from [Releases](https://github.com/mmoe316/vault_doctor/releases).
 2. **Run** it inside your Obsidian Vault:
    ```bash
    ./vault_doctor

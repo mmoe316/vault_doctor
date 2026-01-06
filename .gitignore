@@ -1,4 +1,18 @@
+# Gleam & Erlang Build Artifacts
+/build
 *.beam
 *.ez
-/build
 erl_crash.dump
+
+# Node/JS Artifacts
+node_modules/
+npm-debug.log
+
+# Local Development Files
+server.log
+run_cli.js
+*.swp
+.DS_Store
+
+# Explicitly Allow the Docs folder (just in case)
+!docs/
